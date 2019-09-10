@@ -19,7 +19,7 @@ paths:
         required: true
         schema:
           type: string
-        example: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX25hbWUiOiJ1c2VyMSIsImV4cCI6MTU3MTEyNzM4OSwiaWF0IjoxNTY4MTI3Mzg5LCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXX0.XIr7M3jLrUnTJwBkHz1cjPmj3c4TOJWloKkRNl4IKZQ
+        example: Bearer <token>
       responses:
         200:
           description: "200"
